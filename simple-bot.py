@@ -16,3 +16,6 @@ async def main():
 asyncio.run(main())
 
 # Credits: Satyam Dubey
+# simple-bot.py
+# Copyright (c) 2024 satyamtkd
+# All rights reserved.
