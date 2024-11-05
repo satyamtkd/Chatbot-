@@ -1,0 +1,4 @@
+satyachat==0.8.16
+satyachat-puppet==0.4.16
+asyncio==3.4.3
+typing-extensions==4.0.1
